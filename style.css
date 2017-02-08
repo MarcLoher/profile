@@ -10,10 +10,10 @@ body {
   font-family: 'Pangolin', cursive;
 }
 a {
-  color: pink;
+  color: blue;
 }
 a:hover {
-  color: yellow;
+  color: orange;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
   text-decoration: underline;
 }
 
-.italique{
+.italique {
   text-decoration: align;
 }
 
@@ -52,3 +52,13 @@ p {
   margin-bottom: 20px;
 }
 
+#sidebar {
+  background-color: orange;
+  border: 1px dotted black;
+  box-shadow: 30px 30px lightgrey;
+  width: 100px;
+  float: left;
+  height: 1550px;
+  margin: 10 auto;
+  margin-bottom: 20px;
+}
