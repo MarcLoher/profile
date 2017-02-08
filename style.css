@@ -1,0 +1,54 @@
+h1 {
+  color:red;
+  font-size: Helvetica;
+  line-height: lighter;
+}
+body {
+  color: black;
+  background-image: url("image/vague.jpg");
+  background: no-repeat;
+  font-family: 'Pangolin', cursive;
+}
+a {
+  color: pink;
+}
+a:hover {
+  color: yellow;
+}
+
+p {
+  width: 50%;
+}
+
+
+#image-profile {
+  border-radius: 500px;
+  box-shadow: 10px 10px blue;
+}
+
+#ma-vision   {
+  text-decoration: underline;
+}
+#mon-ambition {
+  text-decoration: underline;
+}
+#ma-musique-preferee {
+  text-decoration: underline;
+}
+#Adoptez-un-toto {
+  text-decoration: underline;
+}
+
+.italique{
+  text-decoration: align;
+}
+
+.card {
+  background-color: lightgrey;
+  border: 1px dotted black;
+  box-shadow: 50px 50px orange;
+  width: 1500px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
